@@ -1,0 +1,25 @@
+{
+  "name": "herokutests",
+  "version": "1.0.0",
+  "description": "heroku test",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^6.0.0",
+    "request": "^2.88.2",
+    "query-string": "^1.0.0",
+    "express": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0tv/herokutests.git"
+  },
+  "author": "ledlamp89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0tv/herokutests/issues"
+  }
+}
