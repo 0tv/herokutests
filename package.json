@@ -7,7 +7,8 @@
     "ws": "^6.0.0",
     "request": "^2.88.2",
     "query-string": "^1.0.0",
-    "express": "^1.0.0"
+    "express": "^1.0.0",
+    "express-http-proxy": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
