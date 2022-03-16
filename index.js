@@ -1,6 +1,6 @@
-var proxy = require('express-http-proxy');
 var app = require('express')();
 
-app.use('/', proxy('fnf.run3.io'));
+app.use(express.static('public'));
+app.use(express.static('charts'));
 
 app.listen(8080);
